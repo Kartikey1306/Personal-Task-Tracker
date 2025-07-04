@@ -18,7 +18,7 @@ A feature-rich, client-side task management application built with React. It all
 ## 🛠 Setup Instructions
 1. Clone the repository:
    \`\`\`bash
-   git clone <your-repo-url>
+   git clone https://github.com/Kartikey1306/Personal-Task-Tracker
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`bash
@@ -26,11 +26,11 @@ A feature-rich, client-side task management application built with React. It all
    \`\`\`
 3. Install dependencies:
    \`\`\`bash
-   npm install
+   npm install / yarn install
    \`\`\`
 4. Run the development server:
    \`\`\`bash
-   npm start
+   npm run dev / yarn run dev
    \`\`\`
 5. Open your browser to [http://localhost:3000](http://localhost:3000).
 
