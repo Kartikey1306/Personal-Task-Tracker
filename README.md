@@ -49,6 +49,15 @@ You can preview the live application directly in the v0 environment by clicking 
 *[Link to your deployed application can be placed here once hosted.]*
 
 ## 🖼 Screenshots
-*[Placeholder for a screenshot of the Task Dashboard in light mode.]*
+*[Placeholder for a screenshot of the Task Dashboard in Dark mode.]*
 
-*[Placeholder for a screenshot of the Task Dashboard in dark mode.]*
+
+
+![Screenshot 2025-07-04 211708](https://github.com/user-attachments/assets/e15b2d2c-3d04-47ec-ad9f-673e0bb8216f)
+
+*[Placeholder for a screenshot of the Task Dashboard in Light mode.]*
+
+
+
+![Screenshot 2025-07-04 212342](https://github.com/user-attachments/assets/c82e399b-77d6-4777-85be-978c111ee62b)
+
