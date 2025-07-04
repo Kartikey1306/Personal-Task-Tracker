@@ -44,9 +44,9 @@ A feature-rich, client-side task management application built with React. It all
 - **next-themes**: To handle the light/dark mode functionality.
 
 ## 🔗 Live Demo
-You can preview the live application directly in the v0 environment by clicking the "Block" button in the top-right corner of the code block.
 
-*[Link to your deployed application can be placed here once hosted.]*
+
+
 
 ## 🖼 Screenshots
 *[Placeholder for a screenshot of the Task Dashboard in Dark mode.]*
